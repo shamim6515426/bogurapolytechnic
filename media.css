@@ -1,0 +1,21 @@
+@media screen and ( max-width:992px) {
+    
+       
+}
+@media screen and ( min-width:1000px) {
+   body{
+     background:url(./bogura-img/bg-main.gif);
+   }
+    .notic-box {
+     display: flex;
+
+    }
+    .footer-row{
+      display: flex;
+      justify-content: space-between;
+    }
+}
+
+
+
+
